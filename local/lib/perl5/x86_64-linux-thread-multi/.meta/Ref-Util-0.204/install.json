@@ -1,0 +1,1 @@
+{"version":"0.204","name":"Ref::Util","dist":"Ref-Util-0.204","pathname":"A/AR/ARC/Ref-Util-0.204.tar.gz","target":"Ref::Util","provides":{"Ref::Util":{"file":"lib/Ref/Util.pm","version":"0.204"},"Ref::Util::PP":{"version":"0.204","file":"lib/Ref/Util/PP.pm"}}}

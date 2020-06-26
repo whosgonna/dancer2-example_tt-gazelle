@@ -1,0 +1,14 @@
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/ArgProcessor.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Command.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Command/commands.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Command/help.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Command/version.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Plugin.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Setup.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Simple.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Subdispatch.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Subdispatch/DashedStyle.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Tester.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Tester/CaptureExternal.pm
+/home/ben/projects/dancer2-example/local/lib/perl5/App/Cmd/Tutorial.pod
